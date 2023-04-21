@@ -1,3 +1,10 @@
 Dear ${person}
 
-My name is 
+My name is ${name} and I am contacting you to ask for an interview. I am a freshman at Liberty Charter High School, and I am very interested in computer programming, and software engineering. I have been working with JavaScript and C++, and I have found it very interesting.
+
+
+
+I found your name from ${location}. I would love to do in interview with you about software engineering/programming. I look forward to hearing from you
+
+${name}
+
