@@ -7,7 +7,7 @@ While searchinf for professionals to interview, I came accross your name, and yo
 I would love to ask you some questions like:
 
 * What inspired you to persure your current career?
-* What are some challnges that you have had, and how did you oversome them?
+* What are some challnges that you have had, and how did you overcome them?
 * How did you stay up to date with newerer programming technologies?
 * What qualities are essential for success in your field?
 * Are there any specific skills that yout think are crucia for someone looking to intern or start a career in this field?
