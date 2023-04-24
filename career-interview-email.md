@@ -18,4 +18,3 @@ Thank you again for your time and consideration.
 
 Best regards,
 ${name}
-
